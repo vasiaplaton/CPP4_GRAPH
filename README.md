@@ -51,7 +51,7 @@
 ![alt text](readme_imgs/2.png)
 
 ### 3. Открываем graph.txt, далее сохраняем минимальное оставное дерево как results/output.txt
-Резульат
+Результат [output.txt](results/output.txt)
 ```
 6
 0 1
@@ -61,14 +61,14 @@
 3 5
 ```
 
-лог файл[log.txt](log.txt)
+лог файл [log.txt](log.txt)
 ```
 [INFO] Graph successfully read from file
 [INFO] Minimum spanning tree found
 [INFO] Minimum spanning tree successfully written to file
 ```
 
-### Вышел какой-то граф для исходного
+### Вышло такое минимальное оставное дерево для для исходного графа
 ```
     0
    / \
